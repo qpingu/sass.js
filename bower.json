@@ -9,15 +9,16 @@
     "**/.*",
     "*.html",
     "*.md",
-    "*.js",
     "*.json",
+    "./Gruntfile.js",
     "bin",
     "scss",
     "libsass",
     "grunt-tasks",
     "bin",
     "src",
-    "test"
+    "test",
+    "maps"
   ],
   "keywords": [
     "libsass",
