@@ -9,12 +9,12 @@
     "**/.*",
     "*.html",
     "*.md",
-    "*.js",
     "*.json",
     "bin",
     "scss",
     "libsass",
     "grunt-tasks",
+    "Gruntfile.js",
     "bin",
     "src",
     "test"
